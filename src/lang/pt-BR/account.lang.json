@@ -1,0 +1,17 @@
+{
+    "title": {
+      "required": "O título é obrigatório.",
+      "minlength": "O título deve ter pelo menos 3 caracteres."
+    },
+    "value": {
+      "required": "O valor é obrigatório.",
+      "min": "O valor deve ser positivo."
+    },
+    "due_date": {
+      "required": "A data de vencimento é obrigatória.",
+      "invalid": "A data de vencimento não pode ser no passado."
+    },
+    "status": {
+      "enum": "O status deve ser 'pendente', 'pago' ou 'atrasado'."
+    }
+  }
