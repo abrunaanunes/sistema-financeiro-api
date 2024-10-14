@@ -70,3 +70,7 @@
 - **Dia 38-40: Preparação para Deploy**
   - Configurar o ambiente de produção, como o servidor em **Heroku**, **AWS** ou outro serviço de nuvem.
   - Implementar monitoramento básico para garantir que o sistema esteja rodando corretamente em produção.
+
+
+## V2
+- Implementar validação da senha: "A senha deve conter letras maiúsculas, minúsculas, números e caracteres especiais."
